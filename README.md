@@ -4,7 +4,7 @@
 
 ## Variable Font Axe
 
-New Amsterdam has the following axe:
+Vogue has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
