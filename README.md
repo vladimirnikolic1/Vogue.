@@ -2,6 +2,8 @@
 
 ![Image](documentation/image1.png)
 
+Vogue is a dance to music in such a way as to imitate the characteristic poses struck by a model on a catwalk.
+
 ## Variable Font Axe
 
 Vogue has the following axe:
