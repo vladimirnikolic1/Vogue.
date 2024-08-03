@@ -14,5 +14,3 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image9.png)
 
-## (https://img.shields.io/badge/License-GPLv3-blue.svg)
-
