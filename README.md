@@ -1,10 +1,10 @@
-# Vogue Regular
+#  Vogue Regular
 
 ![Image](documentation/image0.png)
 
 Vogue is a dance to music in such a way as to imitate the characteristic poses struck by a model on a catwalk.
 
-## Variable Font Axe
+##   Variable Font Axe
 
 Vogue Regular has the following axe:
 
