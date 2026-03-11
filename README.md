@@ -1,4 +1,4 @@
-### Vogue Regular
+# Vogue Regular
 
 ![Image](documentation/image0.png)
 
@@ -6,7 +6,7 @@ Vogue is a dance to music in such a way as to imitate the characteristic poses s
 
 # Variable Font Axe
 
-Vogue Regular has the following axe:
+###  Vogue Regular has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
