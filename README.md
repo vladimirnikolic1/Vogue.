@@ -10,7 +10,7 @@ Vogue Regular has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
-# Weight | wght | 400 | Regular
+Weight | wght | 400 | Regular
 
 ![Image](documentation/image9.png)
 
