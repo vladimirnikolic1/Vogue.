@@ -14,7 +14,7 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image9.png)
 
-# Copyright 2018 Vogue Regular Project Authors (https://github.com/vladimirnikolic1/Vogue./) 
+Copyright 2018 Vogue Regular Project Authors (https://github.com/vladimirnikolic1/Vogue./) 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
